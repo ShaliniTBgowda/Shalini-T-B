@@ -10,8 +10,6 @@ course and more*
 
 - 👯 I’m looking to collaborate on *Application development projects*
 
-- 🤝 I’m looking for help with *Cloud native projects*
-
 - 💬 Ask me about *Programming languages*
 
 - 📫 How to reach me *shalinibasavaraju15@gmail.com*
